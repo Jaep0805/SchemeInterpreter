@@ -8,8 +8,11 @@ Compiles with a Memory node tree 100 and Hash table of size 300
 Note that it only accepts Scheme commands!
 
 //////////////////////////////////////////////////////////////////////////////////////
+
 How to use:
+
 Enter your input scheme command after "Enter your code" prompt
+
 Two different cases of an Output is printed after >
 - If your command defines a function of a variable ("define") : prints the inputted command
 - otherwise prints : "Eval result : " and the evaluated result
